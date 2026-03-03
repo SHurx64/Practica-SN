@@ -1,3 +1,8 @@
+Integrantes: 
+   Miguel Eduardo Avalos Miranda  - CIF 2022010812
+   Cesar Fernando Suria Hernández - CIF 2023010056
+   Adriana María Torres Menjívar  - CIF 2023010057
+
 Guía de ejecución – Prototipo de Nodo de Robot Resiliente
 
 1. Descripción
