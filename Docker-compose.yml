@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  robot_node:
+    build: .
+    container_name: robot_node
+  
+    restart: always 
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10mb"
